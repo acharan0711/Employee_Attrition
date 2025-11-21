@@ -1,4 +1,5 @@
 📊 Employee Attrition Prediction using Machine Learning
+
 This project focuses on predicting whether an employee will leave (attrition) using the Kaggle HR Employee Attrition dataset.
 A Random Forest Classifier was used to build the model, achieving an accuracy of 87%.
 
